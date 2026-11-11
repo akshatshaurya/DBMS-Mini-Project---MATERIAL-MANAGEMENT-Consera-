@@ -185,4 +185,9 @@ database used by the running application.
 
 Consera is developed as a DBMS mini-project at PES University.
 
+------------------------------------------------------------------------
+
+*Update this README whenever the setup process, environment variables,
+repository structure, or implemented features change.*
+
 
